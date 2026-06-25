@@ -15,10 +15,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shadwalsr&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/shadwalsr?style=for-the-badge&color=7C3AED&labelColor=4C1D95)
-![Stars](https://img.shields.io/github/stars/shadwalsr?style=for-the-badge&color=A78BFA&labelColor=4C1D95)
-
 </div>
 
 ---
@@ -219,19 +215,6 @@ A 5-day, on-site immersion into rural livelihood research and field data collect
 
 ---
 
-## 🟣 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🌍 **WHO Model United Nations** | Represented South Africa on the pandemic treaty and psychosocial health preparedness committee |
-| 🛰️ **GSoC 2026 Applicant** | Applied to Honeynet's IntelOwl project |
-| 🏆 **InnoVateX 2025 (Omega 5.0), FedKIIT** | Certificate of Participation, PPT Submission Round (via Unstop) |
-| 💡 **Hackathon Build, LocalLoop** | Designed and shipped a local business directory platform end-to-end during a hackathon sprint |
-| 📜 **IBM RAG and Agentic AI Professional Certificate** | Completed all 10 courses, capped with a multimodal AI capstone project |
-
-</div>
 
 ---
 
