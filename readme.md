@@ -7,11 +7,6 @@
 </a>
 
 <br/>
-
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-6D28D9?style=for-the-badge)
-![KIIT](https://img.shields.io/badge/KIIT%20University-2025--2029-8B5CF6?style=for-the-badge)
-![Location](https://img.shields.io/badge/📍-Patna%2C%20Bihar%2C%20India-4C1D95?style=for-the-badge)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadwalsr)
